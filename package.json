@@ -20,7 +20,7 @@
     "test": "jest src --silent"
   },
   "dependencies": {
-    "@rgba-image/lanczos": "^0.1.0",
+    "@rgba-image/lanczos": "^0.1.1",
     "meow": "^8.0.0"
   },
   "devDependencies": {
