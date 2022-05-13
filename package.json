@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@rgba-image/lanczos": "^0.1.0",
-    "meow": "^8.0.0"
+    "meow": "^8.1.2"
   },
   "devDependencies": {
     "@types/jest": "^26.0.19",
